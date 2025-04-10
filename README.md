@@ -65,8 +65,8 @@ Please ensure that the CSV file adheres to the following format:
 
 ### Example CSV:
 
-| file_name | xmin   | xmax   | text  | is_unit_start_pred |
-|-----------|--------|--------|-------|---------------------|
-| 0         | example1 | 20.42  | 20.74 | mhmm  | TRUE                |
-| 1         | example1 | 20.74  | 20.81 | hello | TRUE                |
-| 2         | example1 | 20.81  | 20.92 | world | FALSE               |
+|   | file_name  | xmin   | xmax   | text  | is_unit_start_pred |
+|---|------------|--------|--------|-------|--------------------|
+| 0 | example1   | 20.42  | 20.74  | mhmm  | TRUE               |
+| 1 | example1   | 20.74  | 20.81  | hello | TRUE               |
+| 2 | example1   | 20.81  | 20.92  | world | FALSE              |
